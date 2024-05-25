@@ -304,6 +304,30 @@
             }
         ]
     },
+    "图片表情": {
+        "type": "image",
+        "container": [
+            
+        ]
+    },
+    "动图": {
+        "type": "image",
+        "container": [
+            
+        ]
+    },
+    "动次打次": {
+        "type": "image",
+        "container": [
+            
+        ]
+    },
+    "贴吧": {
+        "type": "image",
+        "container": [
+            
+        ]
+    },
     "自行修改": {
         "type": "image",
         "container": [
